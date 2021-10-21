@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuiO0pANMsZWz4Ub8hIs8F8Xnq54AJyuwahuqAJO4TgQYmFNmCEafyoQNr7g8u+lmWqDMEUgak3Es9X6J3EQJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive - Excellerent Solutions\\Desktop\\Git-Re\\Excellerent.ApplicantTracking.Domain\\Excellerent.ApplicantTracking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

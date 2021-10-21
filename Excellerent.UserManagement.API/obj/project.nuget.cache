@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CH+k9j55LPSkkYlbftCbwuRqmI7bd96BgvoeEqhfhsAvqwpAr5yXPni2OMEdvJTMIUlmq2FGrduRuSt2AEfEXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive - Excellerent Solutions\\Desktop\\Git-Re\\Excellerent.UserManagement.API\\Excellerent.UserManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.logging\\6.13.1\\microsoft.identitymodel.logging.6.13.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.13.1\\microsoft.identitymodel.tokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

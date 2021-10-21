@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Excellerent.Usermanagement.Infrastructure/1.0.0": {
+        "runtime": {
+          "Excellerent.Usermanagement.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excellerent.Usermanagement.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
